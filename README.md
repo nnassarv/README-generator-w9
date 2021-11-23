@@ -19,5 +19,6 @@ The focus is on functionality and providing the questions through the command li
 * HTML
 
 > ### Supporting media or references
+* [This is a demo file](https://github.com/nnassarv/README-generator-w9/tree/main/results) of the README generated with the app
 * [This is a demo video](https://watch.screencastify.com/v/LHEyT7LvWexh3mYKKJxr) of the app being used to create a new README file
 * If that does not work out, please try with [this one](https://github.com/nnassarv/README-generator-w9/blob/main/demo-video-week-9-homework.mp4) as a fallback option
