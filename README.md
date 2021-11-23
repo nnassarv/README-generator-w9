@@ -1,37 +1,23 @@
 
 ## Description
+For this week's homework we created a README file generator. 
+The application is supposed to ask the user to provide some answers and input to some questions and then these answers are captured and plugged into a template file which returns a predesigned README file updated with the information provided
 
-The first version of my portfolio website was created as the homework assignment on Week 2 of the bootcamp.
-It has been updated as part of the week 8 homework assignment.
 
 > ### Links:
-- [Website](https://nnassarv.github.io/Personal-Portfolio/)
-- [GitHub Repository](https://github.com/nnassarv/Personal-Portfolio)
-
-> ### Some of the updates include:
-- Using Bootstrap as a CSS framework
-- Update the portfolio projects to real assignments and projects
-- Refactor the website
-
+- [GitHub Repository](https://github.com/nnassarv/README-generator-w9)
 
 ## Design
-For this website I used a simple color pallet with contrasting colors and dark background.
-The first version of the site was done completely with CSS.
-The second version is done with **Bootstrap** to help make it ***mobile-first***
+There isn't a big focus on UI or design for this assignment. 
+The focus is on functionality and providing the questions through the command line which is then used for the README file
 
 > ### Tech used
-- HTML
-- CSS
-- Bootstrap + Bootstrap JS
-- Google Fonts
-- Font Awesome
+* JavaScript
+* Node.JS
+* NPM
+* Inquirer
+* HTML
 
-
-## Mobile first
-The first version of the website was made using media screens to make the app responsive to mobile or smaller screens. The second version addresses these requirements by leveraging Bootstrap's column + row framework.
-
-> ### Here are some screenshots of the new version
-- This is the portfolio improved with some navigation and visual guides as the user scrolls through the page:
-![website with top menu and project section](./assets/images/Nabil_s_Portfolio.png) 
-- This is a view of a smaller screen (mobile) where the navigation has been compacted into a hamburger menu and still the "scrollspy" indicates to the reader the current location.
-![website with projects section, contact me and footer](./assets/images/Nabil_s_Portfolio-2.png)g
+> ### Supporting media or references
+* [This is a demo video](https://watch.screencastify.com/v/LHEyT7LvWexh3mYKKJxr) of the app being used to create a new README file
+* If that does not work out, please try with [this one](https://github.com/nnassarv/README-generator-w9/blob/main/demo-video-week-9-homework.mp4) as a fallback option
